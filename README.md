@@ -59,8 +59,3 @@ Add unit tests
 Built by Musbi Jawo — learning and building fun Python projects!
 Inspired by Eid traditions in The Gambia 🇬🇲✨
 
-If you'd like, I can also:
-✅ generate the README.md file as actual Markdown so you can copy it
-✅ suggest a simple project logo or banner for your GitHub repo
-
-Want me to do that too? 🚀✨
